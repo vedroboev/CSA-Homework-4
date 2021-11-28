@@ -1,4 +1,4 @@
-// Output functions for various abstractions.
+// Output functions for program abstractions.
 
 #include <stdio.h>
 #include <math.h>
