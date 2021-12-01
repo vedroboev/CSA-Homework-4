@@ -1,0 +1,49 @@
+[SORTED CONTAINER]
+CONTAINER CONTENTS:
+Container has 23/10000 elements.
+1) Polar coordinates: angle = -10.000000, radius = -10000.000000.
+	Converted to double: -10000.000000.
+2) Fraction: -2147483648 / 2147483647.
+	Converted to double: -1.000000.
+3) Polar coordinates: angle = -3.141593, radius = -1.000000.
+	Converted to double: -1.000000.
+4) Polar coordinates: angle = -1.000000, radius = -1.000000.
+	Converted to double: -1.000000.
+5) Imaginary number: 0.000000.
+	Converted to double: 0.000000.
+6) Polar coordinates: angle = 1.000000, radius = 0.000000.
+	Converted to double: 0.000000.
+7) Polar coordinates: angle = 0.000000, radius = 0.000000.
+	Converted to double: 0.000000.
+8) Fraction: 2 / 20.
+	Converted to double: 0.100000.
+9) Fraction: 7 / 14.
+	Converted to double: 0.500000.
+10) Polar coordinates: angle = 0.000000, radius = 1.000000.
+	Converted to double: 1.000000.
+11) Fraction: 1294967296 / 1294967296.
+	Converted to double: 1.000000.
+12) Fraction: 10 / 10.
+	Converted to double: 1.000000.
+13) Fraction: 1 / 1.
+	Converted to double: 1.000000.
+14) Imaginary number: 1.000000.
+	Converted to double: 1.000000.
+15) Polar coordinates: angle = 3.141593, radius = 1.000000.
+	Converted to double: 1.000000.
+16) Imaginary number: 1.100000i
+	Converted to double: 1.100000.
+17) Imaginary number: 1.000000 - 1.000000i.
+	Converted to double: 1.414214.
+18) Imaginary number: 1.000000 + 1.000000i.
+	Converted to double: 1.414214.
+19) Imaginary number: 2.600000 + 7.800000i.
+	Converted to double: 8.221922.
+20) Imaginary number: -9.212231 - 7.242142i.
+	Converted to double: 11.718098.
+21) Imaginary number: 10000.000000 - 10000.000000i.
+	Converted to double: 14142.135624.
+22) Polar coordinates: angle = -3000000000.000000, radius = 3000000000.000000.
+	Converted to double: 3000000000.000000.
+23) Imaginary number: -3000000000.000000 + 3000000000.000000i.
+	Converted to double: 4242640687.119285.

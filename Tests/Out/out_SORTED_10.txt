@@ -1,0 +1,23 @@
+[SORTED CONTAINER]
+CONTAINER CONTENTS:
+Container has 10/10000 elements.
+1) Polar coordinates: angle = 29.300000, radius = -66.400000.
+	Converted to double: -66.400000.
+2) Polar coordinates: angle = -99.500000, radius = -36.300000.
+	Converted to double: -36.300000.
+3) Polar coordinates: angle = 58.900000, radius = -25.800000.
+	Converted to double: -25.800000.
+4) Fraction: -16 / 1.
+	Converted to double: -16.000000.
+5) Fraction: -98 / 8.
+	Converted to double: -12.250000.
+6) Fraction: 64 / 83.
+	Converted to double: 0.771084.
+7) Imaginary number: -8.000000 - 16.100000i.
+	Converted to double: 17.978042.
+8) Imaginary number: 27.200000 + 6.600000i.
+	Converted to double: 27.989284.
+9) Polar coordinates: angle = 9.200000, radius = 48.600000.
+	Converted to double: 48.600000.
+10) Imaginary number: 70.600000 + 75.300000i.
+	Converted to double: 103.220395.

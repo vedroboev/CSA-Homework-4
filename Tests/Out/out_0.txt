@@ -1,0 +1,3 @@
+[CONTAINER]
+CONTAINER CONTENTS:
+Container has 0/10000 elements.
