@@ -8,8 +8,8 @@
 ;}
 
 ; Converting imaginary do double (getting number's modulus).
-global imaginaryToDoubleAsm
-imaginaryToDoubleAsm:
+global imaginaryToDouble
+imaginaryToDouble:
 section .text
 push rbp                    ; prologue.
 mov rbp, rsp
@@ -33,8 +33,8 @@ ret                         ; leaving stack and returning
 ;}
 
 ; Converts fraction to double (gets division result).
-global fractionToDoubleAsm
-fractionToDoubleAsm:
+global fractionToDouble
+fractionToDouble:
 section .text
 push rbp                        ; prologue.
 mov rbp, rsp
@@ -50,8 +50,8 @@ ret                             ; leaving stack and returning
 ;}
 
 ; Converts polar to double (by getting its radius).
-global polarToDoubleAsm
-polarToDoubleAsm:
+global polarToDouble
+polarToDouble:
 section .text
 push rbp                    ; prologue.
 mov rbp, rsp
@@ -73,8 +73,8 @@ ret                         ; leaving stack and returning
 ;}
 
 ; Converting a generic number to double.
-global numberToDoubleAsm
-numberToDoubleAsm:
+global numberToDouble
+numberToDouble:
 section .text
 push rbp                        ; prologue.
 mov rbp, rsp
@@ -93,17 +93,17 @@ mov rbp, rsp
 
 .imaginary:                     ; handing imaginary
     add rdi, 4                  ; moving rdi by int size to get to number data
-    call imaginaryToDoubleAsm   ; getting double conversion of specified number
+    call imaginaryToDouble   ; getting double conversion of specified number
     jmp .return                 ; jumping to the end
 
 .fraction:                      ; handling fraction
     add rdi, 4
-    call fractionToDoubleAsm
+    call fractionToDouble
     jmp .return
 
 .polar:                         ; handling polar
     add rdi, 4
-    call polarToDoubleAsm
+    call polarToDouble
 
 .return:                        ; leaving stack and returning
 leave

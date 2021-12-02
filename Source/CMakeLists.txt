@@ -20,7 +20,6 @@ set(SOURCE_FILES
         input.c
         output.c
         randominput.c
-        todouble.c
         heapsort.c
         utilities.c
 
