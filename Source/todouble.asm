@@ -1,8 +1,3 @@
-; Constants for number types.
-extern IMAGINARY
-extern FRACTION
-extern POLAR
-
 ; In this file, initial code of the function in C is written before its assembly code.
 
 ;double imaginaryToDouble(void *pointer) {
@@ -65,3 +60,51 @@ leave
 ret                         ; leaving stack and returning
 
 
+;double numberToDouble(void *pointer) {
+;    int type = *(int *) pointer;
+;    pointer = pointer + int_size;
+;
+;    switch (type) {
+;        case 1 : return imaginaryToDouble(pointer);
+;        case 2 : return fractionToDouble(pointer);
+;        case 3 : return polarToDouble(pointer);
+;        default : return 0;
+;    }
+;}
+
+; Converting a generic number to double.
+global numberToDoubleAsm
+numberToDoubleAsm:
+section .text
+push rbp                        ; prologue.
+mov rbp, rsp
+    mov eax, [rdi]              ; storing number type in eax
+
+    cmp eax, 1                  ; if type is IMAGINARY
+    je .imaginary
+    cmp eax, 2                  ; if type is FRACTION
+    je .fraction
+    cmp eax, 3                  ; if type is POLAR
+    je .polar
+
+    mov eax, 0                  ; if type didn't match, we reset eax to 0
+    cvtsi2sd xmm0, eax          ; and return it converted to double
+    jmp .return
+
+.imaginary:                     ; handing imaginary
+    add rdi, 4                  ; moving rdi by int size to get to number data
+    call imaginaryToDoubleAsm   ; getting double conversion of specified number
+    jmp .return                 ; jumping to the end
+
+.fraction:                      ; handling fraction
+    add rdi, 4
+    call fractionToDoubleAsm
+    jmp .return
+
+.polar:                         ; handling polar
+    add rdi, 4
+    call polarToDoubleAsm
+
+.return:                        ; leaving stack and returning
+leave
+ret
