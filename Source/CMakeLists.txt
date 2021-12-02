@@ -6,7 +6,7 @@ set(CMAKE_C_STANDARD 99)
 set(BUILD_DIR "${CMAKE_BINARY_DIR}")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BUILD_DIR}/../bin")
 
-set(ASM_SOURCE_FILES todouble.asm)
+set(ASM_SOURCE_FILES todouble.asm heapsort.asm)
 set_source_files_properties(${ASM_SOURCE_FILES} PROPERTIES LANGUAGE ASM_NASM)
 
 set(SOURCE_FILES
