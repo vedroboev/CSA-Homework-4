@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
-#include <time.h>
 
 #include "constants.h"
 #include "container.h"
@@ -11,13 +9,12 @@
 // MAIN METHOD.
 //----------------------------------------------------------------------------------------------------------------------
 
-int main(int argument_count, char* args[]) {
-    // Some variables to help measure time.
-    clock_t start;
-    double cpu_time;
+
+int main(int argument_count, char *args[]) {
     // Creating an array which will store all read numbers.
     unsigned char container[container_size];
     int length = 0;
+
 
     // Handling incorrect argument count.
     if(argument_count != 5 && argument_count != 4){

@@ -25,4 +25,9 @@ extern int const max_line_length;
 // Constant for Pi.
 extern double const PI;
 
+extern double imaginaryToDouble(void* pointer);
+extern double fractionToDouble(void* pointer);
+extern double polarToDouble(void* pointer);
+extern double numberToDouble(void* pointer);
+
 #endif //CSA_HOMEWORK_4_SOURCE_SHAREDCONSTANTS_H_

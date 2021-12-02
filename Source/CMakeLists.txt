@@ -13,7 +13,6 @@ set(SOURCE_FILES
         constants.h
         utilities.h
         container.h
-        todouble.h
         sharedconstants.h
 
         main.c
