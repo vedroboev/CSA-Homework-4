@@ -9,15 +9,15 @@ Container has 9800/10000 elements.
 	Converted to double: -99.800000.
 4) Polar coordinates: angle = -2.100000, radius = -99.700000.
 	Converted to double: -99.700000.
-5) Polar coordinates: angle = 6.400000, radius = -99.700000.
+5) Polar coordinates: angle = -82.600000, radius = -99.700000.
 	Converted to double: -99.700000.
-6) Polar coordinates: angle = -82.600000, radius = -99.700000.
+6) Polar coordinates: angle = 6.400000, radius = -99.700000.
 	Converted to double: -99.700000.
-7) Polar coordinates: angle = -91.400000, radius = -99.600000.
+7) Polar coordinates: angle = -83.200000, radius = -99.600000.
 	Converted to double: -99.600000.
-8) Polar coordinates: angle = -83.200000, radius = -99.600000.
+8) Polar coordinates: angle = -64.800000, radius = -99.600000.
 	Converted to double: -99.600000.
-9) Polar coordinates: angle = -64.800000, radius = -99.600000.
+9) Polar coordinates: angle = -91.400000, radius = -99.600000.
 	Converted to double: -99.600000.
 10) Polar coordinates: angle = -31.500000, radius = -99.400000.
 	Converted to double: -99.400000.
@@ -29,19 +29,19 @@ Container has 9800/10000 elements.
 	Converted to double: -99.300000.
 14) Polar coordinates: angle = 82.300000, radius = -99.200000.
 	Converted to double: -99.200000.
-15) Polar coordinates: angle = 41.400000, radius = -99.200000.
+15) Polar coordinates: angle = 73.800000, radius = -99.200000.
 	Converted to double: -99.200000.
-16) Polar coordinates: angle = 73.800000, radius = -99.200000.
+16) Polar coordinates: angle = 41.400000, radius = -99.200000.
 	Converted to double: -99.200000.
 17) Polar coordinates: angle = -34.700000, radius = -99.100000.
 	Converted to double: -99.100000.
-18) Polar coordinates: angle = -13.600000, radius = -99.000000.
+18) Polar coordinates: angle = 69.200000, radius = -99.000000.
 	Converted to double: -99.000000.
-19) Polar coordinates: angle = 69.200000, radius = -99.000000.
+19) Polar coordinates: angle = -13.600000, radius = -99.000000.
 	Converted to double: -99.000000.
-20) Polar coordinates: angle = 87.400000, radius = -98.900000.
+20) Polar coordinates: angle = -32.000000, radius = -98.900000.
 	Converted to double: -98.900000.
-21) Polar coordinates: angle = -32.000000, radius = -98.900000.
+21) Polar coordinates: angle = 87.400000, radius = -98.900000.
 	Converted to double: -98.900000.
 22) Polar coordinates: angle = 88.500000, radius = -98.900000.
 	Converted to double: -98.900000.
@@ -65,15 +65,15 @@ Container has 9800/10000 elements.
 	Converted to double: -98.300000.
 32) Polar coordinates: angle = 62.500000, radius = -98.300000.
 	Converted to double: -98.300000.
-33) Polar coordinates: angle = -16.300000, radius = -98.100000.
+33) Polar coordinates: angle = -74.000000, radius = -98.100000.
 	Converted to double: -98.100000.
-34) Polar coordinates: angle = -74.000000, radius = -98.100000.
+34) Polar coordinates: angle = -16.300000, radius = -98.100000.
 	Converted to double: -98.100000.
 35) Fraction: -98 / 1.
 	Converted to double: -98.000000.
-36) Fraction: -98 / 1.
+36) Polar coordinates: angle = 74.600000, radius = -98.000000.
 	Converted to double: -98.000000.
-37) Polar coordinates: angle = 74.600000, radius = -98.000000.
+37) Fraction: -98 / 1.
 	Converted to double: -98.000000.
 38) Polar coordinates: angle = -51.300000, radius = -97.900000.
 	Converted to double: -97.900000.
@@ -91,69 +91,69 @@ Container has 9800/10000 elements.
 	Converted to double: -97.400000.
 45) Polar coordinates: angle = 11.800000, radius = -97.200000.
 	Converted to double: -97.200000.
-46) Polar coordinates: angle = 76.400000, radius = -97.000000.
+46) Polar coordinates: angle = -38.700000, radius = -97.000000.
 	Converted to double: -97.000000.
-47) Polar coordinates: angle = -74.900000, radius = -97.000000.
+47) Polar coordinates: angle = 76.400000, radius = -97.000000.
 	Converted to double: -97.000000.
-48) Polar coordinates: angle = -38.700000, radius = -97.000000.
+48) Polar coordinates: angle = -74.900000, radius = -97.000000.
 	Converted to double: -97.000000.
-49) Polar coordinates: angle = 18.200000, radius = -96.900000.
+49) Polar coordinates: angle = -97.700000, radius = -96.900000.
 	Converted to double: -96.900000.
-50) Polar coordinates: angle = -97.700000, radius = -96.900000.
+50) Polar coordinates: angle = 18.200000, radius = -96.900000.
 	Converted to double: -96.900000.
-51) Polar coordinates: angle = -23.400000, radius = -96.800000.
+51) Polar coordinates: angle = -76.200000, radius = -96.800000.
 	Converted to double: -96.800000.
-52) Polar coordinates: angle = -76.200000, radius = -96.800000.
+52) Polar coordinates: angle = 65.100000, radius = -96.800000.
 	Converted to double: -96.800000.
-53) Polar coordinates: angle = 65.100000, radius = -96.800000.
+53) Polar coordinates: angle = -23.400000, radius = -96.800000.
 	Converted to double: -96.800000.
 54) Polar coordinates: angle = -84.500000, radius = -96.700000.
 	Converted to double: -96.700000.
-55) Polar coordinates: angle = 74.500000, radius = -96.600000.
+55) Polar coordinates: angle = -11.200000, radius = -96.600000.
 	Converted to double: -96.600000.
-56) Polar coordinates: angle = -11.200000, radius = -96.600000.
+56) Polar coordinates: angle = 74.500000, radius = -96.600000.
 	Converted to double: -96.600000.
 57) Polar coordinates: angle = -57.500000, radius = -96.500000.
 	Converted to double: -96.500000.
-58) Polar coordinates: angle = 81.400000, radius = -96.400000.
+58) Polar coordinates: angle = -78.500000, radius = -96.400000.
 	Converted to double: -96.400000.
-59) Polar coordinates: angle = 61.800000, radius = -96.400000.
+59) Polar coordinates: angle = 81.400000, radius = -96.400000.
 	Converted to double: -96.400000.
-60) Polar coordinates: angle = -78.500000, radius = -96.400000.
+60) Polar coordinates: angle = 61.800000, radius = -96.400000.
 	Converted to double: -96.400000.
-61) Polar coordinates: angle = 54.800000, radius = -96.300000.
+61) Polar coordinates: angle = 45.300000, radius = -96.300000.
 	Converted to double: -96.300000.
-62) Polar coordinates: angle = 45.300000, radius = -96.300000.
+62) Polar coordinates: angle = 54.800000, radius = -96.300000.
 	Converted to double: -96.300000.
 63) Polar coordinates: angle = 4.800000, radius = -96.300000.
 	Converted to double: -96.300000.
 64) Polar coordinates: angle = 61.100000, radius = -96.200000.
 	Converted to double: -96.200000.
-65) Polar coordinates: angle = -9.700000, radius = -96.100000.
+65) Polar coordinates: angle = 21.900000, radius = -96.100000.
 	Converted to double: -96.100000.
-66) Polar coordinates: angle = 21.900000, radius = -96.100000.
+66) Polar coordinates: angle = -9.700000, radius = -96.100000.
 	Converted to double: -96.100000.
 67) Polar coordinates: angle = -99.300000, radius = -96.000000.
 	Converted to double: -96.000000.
 68) Polar coordinates: angle = -68.600000, radius = -96.000000.
 	Converted to double: -96.000000.
-69) Polar coordinates: angle = -49.200000, radius = -95.800000.
+69) Polar coordinates: angle = 18.300000, radius = -95.800000.
 	Converted to double: -95.800000.
-70) Polar coordinates: angle = 18.300000, radius = -95.800000.
+70) Polar coordinates: angle = -49.200000, radius = -95.800000.
 	Converted to double: -95.800000.
-71) Polar coordinates: angle = -68.600000, radius = -95.700000.
+71) Polar coordinates: angle = 6.400000, radius = -95.700000.
 	Converted to double: -95.700000.
-72) Polar coordinates: angle = 6.400000, radius = -95.700000.
+72) Polar coordinates: angle = -68.600000, radius = -95.700000.
 	Converted to double: -95.700000.
-73) Polar coordinates: angle = 5.600000, radius = -95.400000.
+73) Polar coordinates: angle = 36.100000, radius = -95.400000.
 	Converted to double: -95.400000.
-74) Polar coordinates: angle = 36.100000, radius = -95.400000.
+74) Polar coordinates: angle = 5.600000, radius = -95.400000.
 	Converted to double: -95.400000.
 75) Polar coordinates: angle = -16.100000, radius = -95.300000.
 	Converted to double: -95.300000.
-76) Polar coordinates: angle = 33.000000, radius = -95.200000.
+76) Polar coordinates: angle = 48.900000, radius = -95.200000.
 	Converted to double: -95.200000.
-77) Polar coordinates: angle = 48.900000, radius = -95.200000.
+77) Polar coordinates: angle = 33.000000, radius = -95.200000.
 	Converted to double: -95.200000.
 78) Polar coordinates: angle = 17.200000, radius = -95.100000.
 	Converted to double: -95.100000.
@@ -161,21 +161,21 @@ Container has 9800/10000 elements.
 	Converted to double: -95.100000.
 80) Polar coordinates: angle = 46.300000, radius = -95.000000.
 	Converted to double: -95.000000.
-81) Polar coordinates: angle = -12.000000, radius = -94.900000.
+81) Polar coordinates: angle = 21.600000, radius = -94.900000.
 	Converted to double: -94.900000.
-82) Polar coordinates: angle = -50.100000, radius = -94.900000.
+82) Polar coordinates: angle = -12.000000, radius = -94.900000.
 	Converted to double: -94.900000.
-83) Polar coordinates: angle = 92.700000, radius = -94.900000.
+83) Polar coordinates: angle = -31.200000, radius = -94.900000.
 	Converted to double: -94.900000.
-84) Polar coordinates: angle = -31.200000, radius = -94.900000.
+84) Polar coordinates: angle = 92.700000, radius = -94.900000.
 	Converted to double: -94.900000.
-85) Polar coordinates: angle = 21.600000, radius = -94.900000.
+85) Polar coordinates: angle = -50.100000, radius = -94.900000.
 	Converted to double: -94.900000.
-86) Polar coordinates: angle = -83.100000, radius = -94.800000.
+86) Polar coordinates: angle = 38.300000, radius = -94.800000.
 	Converted to double: -94.800000.
-87) Polar coordinates: angle = 38.300000, radius = -94.800000.
+87) Polar coordinates: angle = 29.800000, radius = -94.800000.
 	Converted to double: -94.800000.
-88) Polar coordinates: angle = 29.800000, radius = -94.800000.
+88) Polar coordinates: angle = -83.100000, radius = -94.800000.
 	Converted to double: -94.800000.
 89) Polar coordinates: angle = -24.800000, radius = -94.800000.
 	Converted to double: -94.800000.
@@ -183,19 +183,19 @@ Container has 9800/10000 elements.
 	Converted to double: -94.700000.
 91) Polar coordinates: angle = 29.700000, radius = -94.700000.
 	Converted to double: -94.700000.
-92) Polar coordinates: angle = -40.300000, radius = -94.600000.
+92) Polar coordinates: angle = -34.600000, radius = -94.600000.
 	Converted to double: -94.600000.
-93) Polar coordinates: angle = -34.600000, radius = -94.600000.
+93) Polar coordinates: angle = -40.300000, radius = -94.600000.
 	Converted to double: -94.600000.
 94) Polar coordinates: angle = 2.300000, radius = -94.500000.
 	Converted to double: -94.500000.
 95) Polar coordinates: angle = -62.500000, radius = -94.400000.
 	Converted to double: -94.400000.
-96) Polar coordinates: angle = 39.100000, radius = -94.400000.
+96) Polar coordinates: angle = 86.100000, radius = -94.400000.
 	Converted to double: -94.400000.
 97) Polar coordinates: angle = 27.300000, radius = -94.400000.
 	Converted to double: -94.400000.
-98) Polar coordinates: angle = 86.100000, radius = -94.400000.
+98) Polar coordinates: angle = 39.100000, radius = -94.400000.
 	Converted to double: -94.400000.
 99) Polar coordinates: angle = -5.600000, radius = -94.300000.
 	Converted to double: -94.300000.
@@ -209,19 +209,19 @@ Container has 9800/10000 elements.
 	Converted to double: -93.900000.
 104) Polar coordinates: angle = 50.200000, radius = -93.900000.
 	Converted to double: -93.900000.
-105) Polar coordinates: angle = -58.200000, radius = -93.800000.
+105) Polar coordinates: angle = -19.900000, radius = -93.800000.
 	Converted to double: -93.800000.
 106) Polar coordinates: angle = 64.300000, radius = -93.800000.
 	Converted to double: -93.800000.
-107) Polar coordinates: angle = -19.900000, radius = -93.800000.
+107) Polar coordinates: angle = -58.200000, radius = -93.800000.
 	Converted to double: -93.800000.
 108) Polar coordinates: angle = 24.300000, radius = -93.800000.
 	Converted to double: -93.800000.
 109) Polar coordinates: angle = -10.900000, radius = -93.700000.
 	Converted to double: -93.700000.
-110) Polar coordinates: angle = 8.900000, radius = -93.600000.
+110) Polar coordinates: angle = -98.200000, radius = -93.600000.
 	Converted to double: -93.600000.
-111) Polar coordinates: angle = -98.200000, radius = -93.600000.
+111) Polar coordinates: angle = 8.900000, radius = -93.600000.
 	Converted to double: -93.600000.
 112) Polar coordinates: angle = 49.800000, radius = -93.600000.
 	Converted to double: -93.600000.
@@ -231,17 +231,17 @@ Container has 9800/10000 elements.
 	Converted to double: -93.200000.
 115) Polar coordinates: angle = -46.600000, radius = -93.200000.
 	Converted to double: -93.200000.
-116) Polar coordinates: angle = 69.400000, radius = -93.100000.
+116) Polar coordinates: angle = -7.100000, radius = -93.100000.
 	Converted to double: -93.100000.
-117) Polar coordinates: angle = -7.100000, radius = -93.100000.
+117) Polar coordinates: angle = 69.400000, radius = -93.100000.
 	Converted to double: -93.100000.
-118) Polar coordinates: angle = -89.300000, radius = -93.000000.
+118) Polar coordinates: angle = -36.600000, radius = -93.000000.
 	Converted to double: -93.000000.
-119) Polar coordinates: angle = 74.100000, radius = -93.000000.
+119) Polar coordinates: angle = -89.300000, radius = -93.000000.
 	Converted to double: -93.000000.
 120) Polar coordinates: angle = -70.200000, radius = -93.000000.
 	Converted to double: -93.000000.
-121) Polar coordinates: angle = -36.600000, radius = -93.000000.
+121) Polar coordinates: angle = 74.100000, radius = -93.000000.
 	Converted to double: -93.000000.
 122) Polar coordinates: angle = 27.200000, radius = -92.800000.
 	Converted to double: -92.800000.
@@ -265,9 +265,9 @@ Container has 9800/10000 elements.
 	Converted to double: -92.300000.
 132) Polar coordinates: angle = -14.400000, radius = -92.300000.
 	Converted to double: -92.300000.
-133) Polar coordinates: angle = 36.800000, radius = -92.200000.
+133) Polar coordinates: angle = -68.600000, radius = -92.200000.
 	Converted to double: -92.200000.
-134) Polar coordinates: angle = -68.600000, radius = -92.200000.
+134) Polar coordinates: angle = 36.800000, radius = -92.200000.
 	Converted to double: -92.200000.
 135) Polar coordinates: angle = 61.300000, radius = -92.200000.
 	Converted to double: -92.200000.
@@ -277,11 +277,11 @@ Container has 9800/10000 elements.
 	Converted to double: -92.100000.
 138) Polar coordinates: angle = 85.200000, radius = -92.000000.
 	Converted to double: -92.000000.
-139) Polar coordinates: angle = 90.500000, radius = -91.800000.
+139) Polar coordinates: angle = -24.500000, radius = -91.800000.
 	Converted to double: -91.800000.
-140) Polar coordinates: angle = -24.500000, radius = -91.800000.
+140) Polar coordinates: angle = -46.800000, radius = -91.800000.
 	Converted to double: -91.800000.
-141) Polar coordinates: angle = -46.800000, radius = -91.800000.
+141) Polar coordinates: angle = 90.500000, radius = -91.800000.
 	Converted to double: -91.800000.
 142) Polar coordinates: angle = 25.700000, radius = -91.700000.
 	Converted to double: -91.700000.
@@ -303,9 +303,9 @@ Container has 9800/10000 elements.
 	Converted to double: -91.100000.
 151) Polar coordinates: angle = 82.700000, radius = -90.800000.
 	Converted to double: -90.800000.
-152) Polar coordinates: angle = 65.900000, radius = -90.700000.
+152) Polar coordinates: angle = 63.000000, radius = -90.700000.
 	Converted to double: -90.700000.
-153) Polar coordinates: angle = 63.000000, radius = -90.700000.
+153) Polar coordinates: angle = 65.900000, radius = -90.700000.
 	Converted to double: -90.700000.
 154) Polar coordinates: angle = 27.800000, radius = -90.600000.
 	Converted to double: -90.600000.
@@ -313,11 +313,11 @@ Container has 9800/10000 elements.
 	Converted to double: -90.600000.
 156) Polar coordinates: angle = -82.200000, radius = -90.400000.
 	Converted to double: -90.400000.
-157) Polar coordinates: angle = 56.000000, radius = -90.200000.
+157) Polar coordinates: angle = -54.700000, radius = -90.200000.
 	Converted to double: -90.200000.
-158) Polar coordinates: angle = -43.300000, radius = -90.200000.
+158) Polar coordinates: angle = 56.000000, radius = -90.200000.
 	Converted to double: -90.200000.
-159) Polar coordinates: angle = -54.700000, radius = -90.200000.
+159) Polar coordinates: angle = -43.300000, radius = -90.200000.
 	Converted to double: -90.200000.
 160) Polar coordinates: angle = 18.900000, radius = -90.000000.
 	Converted to double: -90.000000.
@@ -325,19 +325,19 @@ Container has 9800/10000 elements.
 	Converted to double: -89.800000.
 162) Polar coordinates: angle = -14.500000, radius = -89.700000.
 	Converted to double: -89.700000.
-163) Polar coordinates: angle = -26.600000, radius = -89.600000.
+163) Polar coordinates: angle = 65.500000, radius = -89.600000.
 	Converted to double: -89.600000.
-164) Polar coordinates: angle = 65.500000, radius = -89.600000.
+164) Polar coordinates: angle = -26.600000, radius = -89.600000.
 	Converted to double: -89.600000.
 165) Polar coordinates: angle = -63.500000, radius = -89.600000.
 	Converted to double: -89.600000.
 166) Polar coordinates: angle = -65.800000, radius = -89.500000.
 	Converted to double: -89.500000.
-167) Polar coordinates: angle = 53.900000, radius = -89.300000.
+167) Polar coordinates: angle = 23.700000, radius = -89.300000.
 	Converted to double: -89.300000.
-168) Polar coordinates: angle = 23.700000, radius = -89.300000.
+168) Polar coordinates: angle = -68.500000, radius = -89.300000.
 	Converted to double: -89.300000.
-169) Polar coordinates: angle = -68.500000, radius = -89.300000.
+169) Polar coordinates: angle = 53.900000, radius = -89.300000.
 	Converted to double: -89.300000.
 170) Polar coordinates: angle = 72.100000, radius = -89.100000.
 	Converted to double: -89.100000.
@@ -357,19 +357,19 @@ Container has 9800/10000 elements.
 	Converted to double: -88.600000.
 178) Polar coordinates: angle = -34.400000, radius = -88.600000.
 	Converted to double: -88.600000.
-179) Polar coordinates: angle = 7.600000, radius = -88.500000.
+179) Polar coordinates: angle = 88.300000, radius = -88.500000.
 	Converted to double: -88.500000.
-180) Polar coordinates: angle = 88.300000, radius = -88.500000.
+180) Polar coordinates: angle = 70.600000, radius = -88.500000.
 	Converted to double: -88.500000.
-181) Polar coordinates: angle = 70.600000, radius = -88.500000.
+181) Polar coordinates: angle = 7.600000, radius = -88.500000.
 	Converted to double: -88.500000.
 182) Polar coordinates: angle = -75.900000, radius = -88.400000.
 	Converted to double: -88.400000.
-183) Polar coordinates: angle = -43.700000, radius = -88.300000.
+183) Polar coordinates: angle = 72.100000, radius = -88.300000.
 	Converted to double: -88.300000.
-184) Polar coordinates: angle = 72.100000, radius = -88.300000.
+184) Polar coordinates: angle = 16.100000, radius = -88.300000.
 	Converted to double: -88.300000.
-185) Polar coordinates: angle = 16.100000, radius = -88.300000.
+185) Polar coordinates: angle = -43.700000, radius = -88.300000.
 	Converted to double: -88.300000.
 186) Polar coordinates: angle = 2.400000, radius = -88.200000.
 	Converted to double: -88.200000.
@@ -377,11 +377,11 @@ Container has 9800/10000 elements.
 	Converted to double: -88.100000.
 188) Polar coordinates: angle = -53.000000, radius = -88.000000.
 	Converted to double: -88.000000.
-189) Polar coordinates: angle = -40.500000, radius = -87.900000.
+189) Polar coordinates: angle = 50.300000, radius = -87.900000.
 	Converted to double: -87.900000.
-190) Polar coordinates: angle = 15.500000, radius = -87.900000.
+190) Polar coordinates: angle = -40.500000, radius = -87.900000.
 	Converted to double: -87.900000.
-191) Polar coordinates: angle = 50.300000, radius = -87.900000.
+191) Polar coordinates: angle = 15.500000, radius = -87.900000.
 	Converted to double: -87.900000.
 192) Polar coordinates: angle = -32.500000, radius = -87.800000.
 	Converted to double: -87.800000.
@@ -389,25 +389,25 @@ Container has 9800/10000 elements.
 	Converted to double: -87.800000.
 194) Polar coordinates: angle = 79.600000, radius = -87.800000.
 	Converted to double: -87.800000.
-195) Polar coordinates: angle = 52.900000, radius = -87.700000.
+195) Polar coordinates: angle = 57.400000, radius = -87.700000.
 	Converted to double: -87.700000.
-196) Polar coordinates: angle = 57.400000, radius = -87.700000.
+196) Polar coordinates: angle = 44.100000, radius = -87.700000.
 	Converted to double: -87.700000.
-197) Polar coordinates: angle = 78.600000, radius = -87.700000.
+197) Polar coordinates: angle = 52.900000, radius = -87.700000.
 	Converted to double: -87.700000.
-198) Polar coordinates: angle = 44.100000, radius = -87.700000.
+198) Polar coordinates: angle = 78.600000, radius = -87.700000.
 	Converted to double: -87.700000.
 199) Polar coordinates: angle = 54.900000, radius = -87.600000.
 	Converted to double: -87.600000.
 200) Polar coordinates: angle = 72.800000, radius = -87.400000.
 	Converted to double: -87.400000.
-201) Polar coordinates: angle = -39.600000, radius = -87.400000.
+201) Polar coordinates: angle = 42.800000, radius = -87.400000.
 	Converted to double: -87.400000.
-202) Polar coordinates: angle = 42.800000, radius = -87.400000.
+202) Polar coordinates: angle = -39.600000, radius = -87.400000.
 	Converted to double: -87.400000.
-203) Polar coordinates: angle = 95.200000, radius = -87.300000.
+203) Polar coordinates: angle = -63.100000, radius = -87.300000.
 	Converted to double: -87.300000.
-204) Polar coordinates: angle = -63.100000, radius = -87.300000.
+204) Polar coordinates: angle = 95.200000, radius = -87.300000.
 	Converted to double: -87.300000.
 205) Polar coordinates: angle = -23.400000, radius = -87.200000.
 	Converted to double: -87.200000.
@@ -421,47 +421,47 @@ Container has 9800/10000 elements.
 	Converted to double: -86.900000.
 210) Polar coordinates: angle = -3.700000, radius = -86.800000.
 	Converted to double: -86.800000.
-211) Polar coordinates: angle = -95.700000, radius = -86.600000.
+211) Polar coordinates: angle = 48.500000, radius = -86.600000.
 	Converted to double: -86.600000.
-212) Polar coordinates: angle = 48.500000, radius = -86.600000.
+212) Polar coordinates: angle = -73.800000, radius = -86.600000.
 	Converted to double: -86.600000.
-213) Polar coordinates: angle = -73.800000, radius = -86.600000.
+213) Polar coordinates: angle = -95.700000, radius = -86.600000.
 	Converted to double: -86.600000.
 214) Polar coordinates: angle = -83.400000, radius = -86.400000.
 	Converted to double: -86.400000.
-215) Polar coordinates: angle = 81.200000, radius = -86.400000.
+215) Polar coordinates: angle = 51.000000, radius = -86.400000.
 	Converted to double: -86.400000.
 216) Polar coordinates: angle = 20.000000, radius = -86.400000.
 	Converted to double: -86.400000.
-217) Polar coordinates: angle = 51.000000, radius = -86.400000.
+217) Polar coordinates: angle = 81.200000, radius = -86.400000.
 	Converted to double: -86.400000.
 218) Polar coordinates: angle = 20.300000, radius = -86.300000.
 	Converted to double: -86.300000.
 219) Polar coordinates: angle = -2.800000, radius = -86.200000.
 	Converted to double: -86.200000.
-220) Polar coordinates: angle = -8.300000, radius = -86.000000.
+220) Polar coordinates: angle = -65.800000, radius = -86.000000.
 	Converted to double: -86.000000.
-221) Polar coordinates: angle = -65.800000, radius = -86.000000.
+221) Polar coordinates: angle = -8.300000, radius = -86.000000.
 	Converted to double: -86.000000.
 222) Polar coordinates: angle = 94.000000, radius = -85.800000.
 	Converted to double: -85.800000.
-223) Polar coordinates: angle = 86.100000, radius = -85.800000.
+223) Polar coordinates: angle = -10.100000, radius = -85.800000.
 	Converted to double: -85.800000.
-224) Polar coordinates: angle = -10.100000, radius = -85.800000.
+224) Polar coordinates: angle = 86.100000, radius = -85.800000.
 	Converted to double: -85.800000.
 225) Polar coordinates: angle = 20.300000, radius = -85.800000.
 	Converted to double: -85.800000.
 226) Polar coordinates: angle = 14.500000, radius = -85.700000.
 	Converted to double: -85.700000.
-227) Polar coordinates: angle = 62.000000, radius = -85.600000.
+227) Polar coordinates: angle = 13.900000, radius = -85.600000.
 	Converted to double: -85.600000.
-228) Polar coordinates: angle = 13.900000, radius = -85.600000.
+228) Polar coordinates: angle = 62.000000, radius = -85.600000.
 	Converted to double: -85.600000.
 229) Polar coordinates: angle = 72.200000, radius = -85.600000.
 	Converted to double: -85.600000.
-230) Polar coordinates: angle = -27.300000, radius = -85.500000.
+230) Polar coordinates: angle = -82.900000, radius = -85.500000.
 	Converted to double: -85.500000.
-231) Polar coordinates: angle = -82.900000, radius = -85.500000.
+231) Polar coordinates: angle = -27.300000, radius = -85.500000.
 	Converted to double: -85.500000.
 232) Polar coordinates: angle = 97.800000, radius = -85.300000.
 	Converted to double: -85.300000.
@@ -475,15 +475,15 @@ Container has 9800/10000 elements.
 	Converted to double: -85.000000.
 237) Polar coordinates: angle = 75.900000, radius = -85.000000.
 	Converted to double: -85.000000.
-238) Polar coordinates: angle = -82.900000, radius = -85.000000.
+238) Polar coordinates: angle = -6.000000, radius = -85.000000.
 	Converted to double: -85.000000.
-239) Polar coordinates: angle = -6.000000, radius = -85.000000.
+239) Polar coordinates: angle = -82.900000, radius = -85.000000.
 	Converted to double: -85.000000.
-240) Polar coordinates: angle = -17.600000, radius = -84.900000.
+240) Polar coordinates: angle = 41.500000, radius = -84.900000.
 	Converted to double: -84.900000.
 241) Polar coordinates: angle = 4.200000, radius = -84.900000.
 	Converted to double: -84.900000.
-242) Polar coordinates: angle = 41.500000, radius = -84.900000.
+242) Polar coordinates: angle = -17.600000, radius = -84.900000.
 	Converted to double: -84.900000.
 243) Polar coordinates: angle = 70.400000, radius = -84.800000.
 	Converted to double: -84.800000.
@@ -493,73 +493,73 @@ Container has 9800/10000 elements.
 	Converted to double: -84.700000.
 246) Polar coordinates: angle = -52.300000, radius = -84.700000.
 	Converted to double: -84.700000.
-247) Polar coordinates: angle = -55.400000, radius = -84.700000.
+247) Polar coordinates: angle = -58.800000, radius = -84.700000.
 	Converted to double: -84.700000.
 248) Polar coordinates: angle = 15.900000, radius = -84.700000.
 	Converted to double: -84.700000.
-249) Polar coordinates: angle = -58.800000, radius = -84.700000.
+249) Polar coordinates: angle = -55.400000, radius = -84.700000.
 	Converted to double: -84.700000.
 250) Polar coordinates: angle = 33.900000, radius = -84.600000.
 	Converted to double: -84.600000.
 251) Polar coordinates: angle = 4.300000, radius = -84.600000.
 	Converted to double: -84.600000.
-252) Polar coordinates: angle = -52.800000, radius = -84.500000.
+252) Polar coordinates: angle = -47.200000, radius = -84.500000.
 	Converted to double: -84.500000.
-253) Polar coordinates: angle = -65.000000, radius = -84.500000.
+253) Polar coordinates: angle = -52.800000, radius = -84.500000.
 	Converted to double: -84.500000.
-254) Polar coordinates: angle = -47.200000, radius = -84.500000.
+254) Polar coordinates: angle = -65.000000, radius = -84.500000.
 	Converted to double: -84.500000.
 255) Polar coordinates: angle = -58.200000, radius = -84.500000.
 	Converted to double: -84.500000.
 256) Polar coordinates: angle = 18.600000, radius = -84.400000.
 	Converted to double: -84.400000.
-257) Polar coordinates: angle = -76.500000, radius = -84.300000.
+257) Polar coordinates: angle = -10.800000, radius = -84.300000.
 	Converted to double: -84.300000.
-258) Polar coordinates: angle = -10.800000, radius = -84.300000.
+258) Polar coordinates: angle = -76.500000, radius = -84.300000.
 	Converted to double: -84.300000.
 259) Polar coordinates: angle = 33.400000, radius = -84.200000.
 	Converted to double: -84.200000.
 260) Polar coordinates: angle = 75.400000, radius = -84.200000.
 	Converted to double: -84.200000.
-261) Polar coordinates: angle = 33.700000, radius = -84.100000.
+261) Polar coordinates: angle = 61.400000, radius = -84.100000.
 	Converted to double: -84.100000.
-262) Polar coordinates: angle = 34.100000, radius = -84.100000.
+262) Polar coordinates: angle = 33.700000, radius = -84.100000.
 	Converted to double: -84.100000.
-263) Polar coordinates: angle = -57.100000, radius = -84.100000.
+263) Polar coordinates: angle = 34.100000, radius = -84.100000.
 	Converted to double: -84.100000.
-264) Polar coordinates: angle = 61.400000, radius = -84.100000.
+264) Polar coordinates: angle = -57.100000, radius = -84.100000.
 	Converted to double: -84.100000.
 265) Polar coordinates: angle = -18.400000, radius = -84.000000.
 	Converted to double: -84.000000.
 266) Polar coordinates: angle = -40.600000, radius = -83.900000.
 	Converted to double: -83.900000.
-267) Polar coordinates: angle = 6.600000, radius = -83.800000.
+267) Polar coordinates: angle = -62.500000, radius = -83.800000.
 	Converted to double: -83.800000.
-268) Polar coordinates: angle = -62.500000, radius = -83.800000.
+268) Polar coordinates: angle = 6.600000, radius = -83.800000.
 	Converted to double: -83.800000.
-269) Polar coordinates: angle = 57.900000, radius = -83.700000.
+269) Polar coordinates: angle = -96.700000, radius = -83.700000.
 	Converted to double: -83.700000.
-270) Polar coordinates: angle = -96.700000, radius = -83.700000.
+270) Polar coordinates: angle = 57.900000, radius = -83.700000.
 	Converted to double: -83.700000.
-271) Polar coordinates: angle = 41.200000, radius = -83.600000.
+271) Polar coordinates: angle = -84.500000, radius = -83.600000.
 	Converted to double: -83.600000.
-272) Polar coordinates: angle = -84.500000, radius = -83.600000.
+272) Polar coordinates: angle = 41.200000, radius = -83.600000.
 	Converted to double: -83.600000.
 273) Polar coordinates: angle = 71.000000, radius = -83.500000.
 	Converted to double: -83.500000.
 274) Polar coordinates: angle = 54.900000, radius = -83.400000.
 	Converted to double: -83.400000.
-275) Polar coordinates: angle = -48.100000, radius = -83.400000.
+275) Polar coordinates: angle = 49.000000, radius = -83.400000.
 	Converted to double: -83.400000.
-276) Polar coordinates: angle = -34.000000, radius = -83.400000.
+276) Polar coordinates: angle = -48.100000, radius = -83.400000.
 	Converted to double: -83.400000.
-277) Polar coordinates: angle = 49.000000, radius = -83.400000.
+277) Polar coordinates: angle = -34.000000, radius = -83.400000.
 	Converted to double: -83.400000.
 278) Polar coordinates: angle = -34.700000, radius = -83.200000.
 	Converted to double: -83.200000.
-279) Polar coordinates: angle = -77.100000, radius = -83.100000.
+279) Polar coordinates: angle = 39.000000, radius = -83.100000.
 	Converted to double: -83.100000.
-280) Polar coordinates: angle = 39.000000, radius = -83.100000.
+280) Polar coordinates: angle = -77.100000, radius = -83.100000.
 	Converted to double: -83.100000.
 281) Polar coordinates: angle = 0.100000, radius = -83.100000.
 	Converted to double: -83.100000.
@@ -573,25 +573,25 @@ Container has 9800/10000 elements.
 	Converted to double: -82.900000.
 286) Polar coordinates: angle = -20.900000, radius = -82.800000.
 	Converted to double: -82.800000.
-287) Polar coordinates: angle = -16.500000, radius = -82.800000.
+287) Polar coordinates: angle = 89.100000, radius = -82.800000.
 	Converted to double: -82.800000.
-288) Polar coordinates: angle = 89.100000, radius = -82.800000.
+288) Polar coordinates: angle = -16.500000, radius = -82.800000.
 	Converted to double: -82.800000.
-289) Polar coordinates: angle = 97.300000, radius = -82.700000.
+289) Polar coordinates: angle = -40.500000, radius = -82.700000.
 	Converted to double: -82.700000.
 290) Polar coordinates: angle = 47.500000, radius = -82.700000.
 	Converted to double: -82.700000.
-291) Polar coordinates: angle = -40.500000, radius = -82.700000.
+291) Polar coordinates: angle = 97.300000, radius = -82.700000.
 	Converted to double: -82.700000.
-292) Polar coordinates: angle = -16.900000, radius = -82.600000.
+292) Polar coordinates: angle = 41.900000, radius = -82.600000.
 	Converted to double: -82.600000.
-293) Polar coordinates: angle = 41.900000, radius = -82.600000.
+293) Polar coordinates: angle = -16.900000, radius = -82.600000.
 	Converted to double: -82.600000.
 294) Polar coordinates: angle = 89.200000, radius = -82.500000.
 	Converted to double: -82.500000.
-295) Polar coordinates: angle = -54.100000, radius = -82.500000.
+295) Polar coordinates: angle = -9.400000, radius = -82.500000.
 	Converted to double: -82.500000.
-296) Polar coordinates: angle = -9.400000, radius = -82.500000.
+296) Polar coordinates: angle = -54.100000, radius = -82.500000.
 	Converted to double: -82.500000.
 297) Polar coordinates: angle = -10.900000, radius = -82.400000.
 	Converted to double: -82.400000.
@@ -607,9 +607,9 @@ Container has 9800/10000 elements.
 	Converted to double: -82.000000.
 303) Polar coordinates: angle = -24.600000, radius = -82.000000.
 	Converted to double: -82.000000.
-304) Polar coordinates: angle = -43.200000, radius = -81.900000.
+304) Polar coordinates: angle = -46.000000, radius = -81.900000.
 	Converted to double: -81.900000.
-305) Polar coordinates: angle = -46.000000, radius = -81.900000.
+305) Polar coordinates: angle = -43.200000, radius = -81.900000.
 	Converted to double: -81.900000.
 306) Polar coordinates: angle = -95.200000, radius = -81.800000.
 	Converted to double: -81.800000.
@@ -617,17 +617,17 @@ Container has 9800/10000 elements.
 	Converted to double: -81.700000.
 308) Polar coordinates: angle = -23.800000, radius = -81.700000.
 	Converted to double: -81.700000.
-309) Polar coordinates: angle = -26.700000, radius = -81.600000.
+309) Polar coordinates: angle = 14.100000, radius = -81.600000.
 	Converted to double: -81.600000.
-310) Polar coordinates: angle = -44.400000, radius = -81.600000.
+310) Polar coordinates: angle = -26.700000, radius = -81.600000.
 	Converted to double: -81.600000.
-311) Polar coordinates: angle = 14.100000, radius = -81.600000.
+311) Polar coordinates: angle = -44.400000, radius = -81.600000.
 	Converted to double: -81.600000.
-312) Polar coordinates: angle = -62.900000, radius = -81.500000.
+312) Polar coordinates: angle = -7.400000, radius = -81.500000.
 	Converted to double: -81.500000.
 313) Polar coordinates: angle = -69.000000, radius = -81.500000.
 	Converted to double: -81.500000.
-314) Polar coordinates: angle = -7.400000, radius = -81.500000.
+314) Polar coordinates: angle = -62.900000, radius = -81.500000.
 	Converted to double: -81.500000.
 315) Polar coordinates: angle = -22.000000, radius = -81.400000.
 	Converted to double: -81.400000.
@@ -639,15 +639,15 @@ Container has 9800/10000 elements.
 	Converted to double: -81.200000.
 319) Polar coordinates: angle = 90.800000, radius = -81.200000.
 	Converted to double: -81.200000.
-320) Polar coordinates: angle = -78.800000, radius = -81.100000.
+320) Polar coordinates: angle = -97.400000, radius = -81.100000.
 	Converted to double: -81.100000.
-321) Polar coordinates: angle = -97.400000, radius = -81.100000.
+321) Polar coordinates: angle = 12.500000, radius = -81.100000.
 	Converted to double: -81.100000.
-322) Polar coordinates: angle = 12.500000, radius = -81.100000.
+322) Polar coordinates: angle = -78.800000, radius = -81.100000.
 	Converted to double: -81.100000.
-323) Fraction: -81 / 1.
+323) Polar coordinates: angle = 77.100000, radius = -81.000000.
 	Converted to double: -81.000000.
-324) Polar coordinates: angle = 77.100000, radius = -81.000000.
+324) Fraction: -81 / 1.
 	Converted to double: -81.000000.
 325) Polar coordinates: angle = -95.800000, radius = -80.900000.
 	Converted to double: -80.900000.
@@ -661,13 +661,13 @@ Container has 9800/10000 elements.
 	Converted to double: -80.800000.
 330) Polar coordinates: angle = 75.400000, radius = -80.800000.
 	Converted to double: -80.800000.
-331) Polar coordinates: angle = -66.800000, radius = -80.700000.
+331) Polar coordinates: angle = -65.300000, radius = -80.700000.
 	Converted to double: -80.700000.
-332) Polar coordinates: angle = -65.300000, radius = -80.700000.
+332) Polar coordinates: angle = -66.800000, radius = -80.700000.
 	Converted to double: -80.700000.
-333) Polar coordinates: angle = 29.500000, radius = -80.700000.
+333) Polar coordinates: angle = 96.000000, radius = -80.700000.
 	Converted to double: -80.700000.
-334) Polar coordinates: angle = 96.000000, radius = -80.700000.
+334) Polar coordinates: angle = 29.500000, radius = -80.700000.
 	Converted to double: -80.700000.
 335) Polar coordinates: angle = -4.500000, radius = -80.600000.
 	Converted to double: -80.600000.
@@ -689,23 +689,23 @@ Container has 9800/10000 elements.
 	Converted to double: -80.100000.
 344) Polar coordinates: angle = 90.600000, radius = -80.100000.
 	Converted to double: -80.100000.
-345) Polar coordinates: angle = 24.000000, radius = -80.000000.
+345) Polar coordinates: angle = 72.800000, radius = -80.000000.
 	Converted to double: -80.000000.
 346) Polar coordinates: angle = 12.400000, radius = -80.000000.
 	Converted to double: -80.000000.
 347) Fraction: -80 / 1.
 	Converted to double: -80.000000.
-348) Polar coordinates: angle = 72.800000, radius = -80.000000.
+348) Polar coordinates: angle = 24.000000, radius = -80.000000.
 	Converted to double: -80.000000.
 349) Polar coordinates: angle = -80.000000, radius = -79.900000.
 	Converted to double: -79.900000.
 350) Polar coordinates: angle = 16.800000, radius = -79.900000.
 	Converted to double: -79.900000.
-351) Polar coordinates: angle = 19.600000, radius = -79.800000.
+351) Polar coordinates: angle = 96.800000, radius = -79.800000.
 	Converted to double: -79.800000.
-352) Polar coordinates: angle = -66.400000, radius = -79.800000.
+352) Polar coordinates: angle = 19.600000, radius = -79.800000.
 	Converted to double: -79.800000.
-353) Polar coordinates: angle = 96.800000, radius = -79.800000.
+353) Polar coordinates: angle = -66.400000, radius = -79.800000.
 	Converted to double: -79.800000.
 354) Polar coordinates: angle = 96.100000, radius = -79.700000.
 	Converted to double: -79.700000.
@@ -721,9 +721,9 @@ Container has 9800/10000 elements.
 	Converted to double: -79.500000.
 360) Polar coordinates: angle = -2.100000, radius = -79.500000.
 	Converted to double: -79.500000.
-361) Polar coordinates: angle = 60.800000, radius = -79.500000.
+361) Polar coordinates: angle = -22.400000, radius = -79.500000.
 	Converted to double: -79.500000.
-362) Polar coordinates: angle = -22.400000, radius = -79.500000.
+362) Polar coordinates: angle = 60.800000, radius = -79.500000.
 	Converted to double: -79.500000.
 363) Polar coordinates: angle = 83.500000, radius = -79.400000.
 	Converted to double: -79.400000.
@@ -741,25 +741,25 @@ Container has 9800/10000 elements.
 	Converted to double: -78.900000.
 370) Polar coordinates: angle = -23.300000, radius = -78.900000.
 	Converted to double: -78.900000.
-371) Polar coordinates: angle = 90.700000, radius = -78.800000.
+371) Polar coordinates: angle = 96.600000, radius = -78.800000.
 	Converted to double: -78.800000.
-372) Polar coordinates: angle = 96.600000, radius = -78.800000.
+372) Polar coordinates: angle = 90.700000, radius = -78.800000.
 	Converted to double: -78.800000.
 373) Polar coordinates: angle = 4.300000, radius = -78.800000.
 	Converted to double: -78.800000.
-374) Polar coordinates: angle = -53.000000, radius = -78.700000.
+374) Polar coordinates: angle = -57.400000, radius = -78.700000.
 	Converted to double: -78.700000.
-375) Polar coordinates: angle = -57.400000, radius = -78.700000.
+375) Polar coordinates: angle = -53.000000, radius = -78.700000.
 	Converted to double: -78.700000.
 376) Polar coordinates: angle = -19.000000, radius = -78.600000.
 	Converted to double: -78.600000.
 377) Polar coordinates: angle = -47.900000, radius = -78.600000.
 	Converted to double: -78.600000.
-378) Polar coordinates: angle = 69.600000, radius = -78.400000.
+378) Polar coordinates: angle = -30.800000, radius = -78.400000.
 	Converted to double: -78.400000.
 379) Polar coordinates: angle = 76.200000, radius = -78.400000.
 	Converted to double: -78.400000.
-380) Polar coordinates: angle = -30.800000, radius = -78.400000.
+380) Polar coordinates: angle = 69.600000, radius = -78.400000.
 	Converted to double: -78.400000.
 381) Polar coordinates: angle = 76.400000, radius = -78.300000.
 	Converted to double: -78.300000.
@@ -767,27 +767,27 @@ Container has 9800/10000 elements.
 	Converted to double: -78.300000.
 383) Polar coordinates: angle = 29.300000, radius = -78.300000.
 	Converted to double: -78.300000.
-384) Polar coordinates: angle = -20.100000, radius = -78.200000.
+384) Polar coordinates: angle = 53.400000, radius = -78.200000.
 	Converted to double: -78.200000.
-385) Polar coordinates: angle = -30.300000, radius = -78.200000.
+385) Polar coordinates: angle = -20.100000, radius = -78.200000.
 	Converted to double: -78.200000.
-386) Polar coordinates: angle = -78.200000, radius = -78.200000.
+386) Polar coordinates: angle = -30.300000, radius = -78.200000.
 	Converted to double: -78.200000.
-387) Polar coordinates: angle = 53.400000, radius = -78.200000.
+387) Polar coordinates: angle = -78.200000, radius = -78.200000.
 	Converted to double: -78.200000.
-388) Polar coordinates: angle = -77.400000, radius = -78.100000.
+388) Polar coordinates: angle = 10.900000, radius = -78.100000.
 	Converted to double: -78.100000.
-389) Polar coordinates: angle = 48.300000, radius = -78.100000.
+389) Polar coordinates: angle = -77.400000, radius = -78.100000.
 	Converted to double: -78.100000.
-390) Polar coordinates: angle = 10.900000, radius = -78.100000.
+390) Polar coordinates: angle = 48.300000, radius = -78.100000.
 	Converted to double: -78.100000.
 391) Polar coordinates: angle = 29.500000, radius = -78.000000.
 	Converted to double: -78.000000.
 392) Polar coordinates: angle = 64.100000, radius = -78.000000.
 	Converted to double: -78.000000.
-393) Polar coordinates: angle = 26.900000, radius = -78.000000.
+393) Polar coordinates: angle = 80.600000, radius = -78.000000.
 	Converted to double: -78.000000.
-394) Polar coordinates: angle = 80.600000, radius = -78.000000.
+394) Polar coordinates: angle = 26.900000, radius = -78.000000.
 	Converted to double: -78.000000.
 395) Polar coordinates: angle = 2.800000, radius = -78.000000.
 	Converted to double: -78.000000.
@@ -841,9 +841,9 @@ Container has 9800/10000 elements.
 	Converted to double: -76.300000.
 420) Polar coordinates: angle = 37.600000, radius = -76.300000.
 	Converted to double: -76.300000.
-421) Polar coordinates: angle = 64.300000, radius = -76.200000.
+421) Polar coordinates: angle = -40.000000, radius = -76.200000.
 	Converted to double: -76.200000.
-422) Polar coordinates: angle = -40.000000, radius = -76.200000.
+422) Polar coordinates: angle = 64.300000, radius = -76.200000.
 	Converted to double: -76.200000.
 423) Polar coordinates: angle = -24.100000, radius = -76.200000.
 	Converted to double: -76.200000.
@@ -857,9 +857,9 @@ Container has 9800/10000 elements.
 	Converted to double: -76.000000.
 428) Polar coordinates: angle = 99.100000, radius = -76.000000.
 	Converted to double: -76.000000.
-429) Polar coordinates: angle = -55.700000, radius = -75.900000.
+429) Polar coordinates: angle = 36.700000, radius = -75.900000.
 	Converted to double: -75.900000.
-430) Polar coordinates: angle = 36.700000, radius = -75.900000.
+430) Polar coordinates: angle = -55.700000, radius = -75.900000.
 	Converted to double: -75.900000.
 431) Polar coordinates: angle = 85.400000, radius = -75.800000.
 	Converted to double: -75.800000.
@@ -913,9 +913,9 @@ Container has 9800/10000 elements.
 	Converted to double: -74.000000.
 456) Polar coordinates: angle = 51.000000, radius = -73.900000.
 	Converted to double: -73.900000.
-457) Polar coordinates: angle = -7.500000, radius = -73.800000.
+457) Polar coordinates: angle = 10.400000, radius = -73.800000.
 	Converted to double: -73.800000.
-458) Polar coordinates: angle = 10.400000, radius = -73.800000.
+458) Polar coordinates: angle = -7.500000, radius = -73.800000.
 	Converted to double: -73.800000.
 459) Polar coordinates: angle = 19.800000, radius = -73.800000.
 	Converted to double: -73.800000.
@@ -931,13 +931,13 @@ Container has 9800/10000 elements.
 	Converted to double: -73.300000.
 465) Polar coordinates: angle = -99.300000, radius = -73.300000.
 	Converted to double: -73.300000.
-466) Polar coordinates: angle = 88.600000, radius = -73.200000.
+466) Polar coordinates: angle = 10.000000, radius = -73.200000.
 	Converted to double: -73.200000.
-467) Polar coordinates: angle = -81.500000, radius = -73.200000.
+467) Polar coordinates: angle = 88.600000, radius = -73.200000.
 	Converted to double: -73.200000.
-468) Polar coordinates: angle = 79.000000, radius = -73.200000.
+468) Polar coordinates: angle = -81.500000, radius = -73.200000.
 	Converted to double: -73.200000.
-469) Polar coordinates: angle = 10.000000, radius = -73.200000.
+469) Polar coordinates: angle = 79.000000, radius = -73.200000.
 	Converted to double: -73.200000.
 470) Polar coordinates: angle = -8.700000, radius = -73.100000.
 	Converted to double: -73.100000.
@@ -975,19 +975,19 @@ Container has 9800/10000 elements.
 	Converted to double: -72.200000.
 487) Polar coordinates: angle = 46.000000, radius = -72.200000.
 	Converted to double: -72.200000.
-488) Polar coordinates: angle = 35.100000, radius = -72.000000.
+488) Polar coordinates: angle = -77.800000, radius = -72.000000.
 	Converted to double: -72.000000.
-489) Polar coordinates: angle = -77.800000, radius = -72.000000.
+489) Polar coordinates: angle = 35.100000, radius = -72.000000.
 	Converted to double: -72.000000.
 490) Polar coordinates: angle = -69.200000, radius = -71.800000.
 	Converted to double: -71.800000.
 491) Polar coordinates: angle = 43.300000, radius = -71.800000.
 	Converted to double: -71.800000.
-492) Polar coordinates: angle = -57.900000, radius = -71.700000.
+492) Polar coordinates: angle = -57.700000, radius = -71.700000.
 	Converted to double: -71.700000.
 493) Polar coordinates: angle = -31.500000, radius = -71.700000.
 	Converted to double: -71.700000.
-494) Polar coordinates: angle = -57.700000, radius = -71.700000.
+494) Polar coordinates: angle = -57.900000, radius = -71.700000.
 	Converted to double: -71.700000.
 495) Polar coordinates: angle = -12.900000, radius = -71.700000.
 	Converted to double: -71.700000.
@@ -1005,11 +1005,11 @@ Container has 9800/10000 elements.
 	Converted to double: -71.200000.
 502) Polar coordinates: angle = -27.100000, radius = -71.100000.
 	Converted to double: -71.100000.
-503) Polar coordinates: angle = -32.500000, radius = -71.000000.
+503) Polar coordinates: angle = -6.100000, radius = -71.000000.
 	Converted to double: -71.000000.
-504) Polar coordinates: angle = 92.000000, radius = -71.000000.
+504) Polar coordinates: angle = -32.500000, radius = -71.000000.
 	Converted to double: -71.000000.
-505) Polar coordinates: angle = -6.100000, radius = -71.000000.
+505) Polar coordinates: angle = 92.000000, radius = -71.000000.
 	Converted to double: -71.000000.
 506) Polar coordinates: angle = -92.300000, radius = -70.900000.
 	Converted to double: -70.900000.
@@ -1055,11 +1055,11 @@ Container has 9800/10000 elements.
 	Converted to double: -69.300000.
 527) Polar coordinates: angle = 35.800000, radius = -69.300000.
 	Converted to double: -69.300000.
-528) Polar coordinates: angle = -78.900000, radius = -69.200000.
+528) Polar coordinates: angle = -60.900000, radius = -69.200000.
 	Converted to double: -69.200000.
-529) Polar coordinates: angle = -34.500000, radius = -69.200000.
+529) Polar coordinates: angle = -78.900000, radius = -69.200000.
 	Converted to double: -69.200000.
-530) Polar coordinates: angle = -60.900000, radius = -69.200000.
+530) Polar coordinates: angle = -34.500000, radius = -69.200000.
 	Converted to double: -69.200000.
 531) Polar coordinates: angle = -72.400000, radius = -69.200000.
 	Converted to double: -69.200000.
@@ -1075,9 +1075,9 @@ Container has 9800/10000 elements.
 	Converted to double: -68.800000.
 537) Polar coordinates: angle = -96.800000, radius = -68.800000.
 	Converted to double: -68.800000.
-538) Polar coordinates: angle = 40.100000, radius = -68.700000.
+538) Polar coordinates: angle = -88.200000, radius = -68.700000.
 	Converted to double: -68.700000.
-539) Polar coordinates: angle = -88.200000, radius = -68.700000.
+539) Polar coordinates: angle = 40.100000, radius = -68.700000.
 	Converted to double: -68.700000.
 540) Polar coordinates: angle = 17.100000, radius = -68.600000.
 	Converted to double: -68.600000.
@@ -1091,9 +1091,9 @@ Container has 9800/10000 elements.
 	Converted to double: -68.200000.
 545) Polar coordinates: angle = 92.600000, radius = -68.100000.
 	Converted to double: -68.100000.
-546) Polar coordinates: angle = -77.400000, radius = -68.000000.
+546) Polar coordinates: angle = -94.700000, radius = -68.000000.
 	Converted to double: -68.000000.
-547) Polar coordinates: angle = -94.700000, radius = -68.000000.
+547) Polar coordinates: angle = -77.400000, radius = -68.000000.
 	Converted to double: -68.000000.
 548) Polar coordinates: angle = 50.000000, radius = -67.900000.
 	Converted to double: -67.900000.
@@ -1143,9 +1143,9 @@ Container has 9800/10000 elements.
 	Converted to double: -66.700000.
 571) Polar coordinates: angle = -50.200000, radius = -66.700000.
 	Converted to double: -66.700000.
-572) Polar coordinates: angle = 20.000000, radius = -66.500000.
+572) Polar coordinates: angle = 12.600000, radius = -66.500000.
 	Converted to double: -66.500000.
-573) Polar coordinates: angle = 12.600000, radius = -66.500000.
+573) Polar coordinates: angle = 20.000000, radius = -66.500000.
 	Converted to double: -66.500000.
 574) Polar coordinates: angle = -74.600000, radius = -66.400000.
 	Converted to double: -66.400000.
@@ -1167,9 +1167,9 @@ Container has 9800/10000 elements.
 	Converted to double: -65.900000.
 583) Polar coordinates: angle = 61.400000, radius = -65.900000.
 	Converted to double: -65.900000.
-584) Polar coordinates: angle = 86.600000, radius = -65.800000.
+584) Polar coordinates: angle = -27.000000, radius = -65.800000.
 	Converted to double: -65.800000.
-585) Polar coordinates: angle = -27.000000, radius = -65.800000.
+585) Polar coordinates: angle = 86.600000, radius = -65.800000.
 	Converted to double: -65.800000.
 586) Polar coordinates: angle = -12.500000, radius = -65.800000.
 	Converted to double: -65.800000.
@@ -1183,9 +1183,9 @@ Container has 9800/10000 elements.
 	Converted to double: -65.600000.
 591) Polar coordinates: angle = -62.000000, radius = -65.600000.
 	Converted to double: -65.600000.
-592) Polar coordinates: angle = 53.300000, radius = -65.600000.
+592) Polar coordinates: angle = -61.700000, radius = -65.600000.
 	Converted to double: -65.600000.
-593) Polar coordinates: angle = -61.700000, radius = -65.600000.
+593) Polar coordinates: angle = 53.300000, radius = -65.600000.
 	Converted to double: -65.600000.
 594) Polar coordinates: angle = 76.400000, radius = -65.600000.
 	Converted to double: -65.600000.
@@ -1197,11 +1197,11 @@ Container has 9800/10000 elements.
 	Converted to double: -65.400000.
 598) Polar coordinates: angle = 86.100000, radius = -65.400000.
 	Converted to double: -65.400000.
-599) Polar coordinates: angle = -78.000000, radius = -65.200000.
+599) Polar coordinates: angle = -29.400000, radius = -65.200000.
 	Converted to double: -65.200000.
-600) Polar coordinates: angle = -3.100000, radius = -65.200000.
+600) Polar coordinates: angle = -78.000000, radius = -65.200000.
 	Converted to double: -65.200000.
-601) Polar coordinates: angle = -29.400000, radius = -65.200000.
+601) Polar coordinates: angle = -3.100000, radius = -65.200000.
 	Converted to double: -65.200000.
 602) Polar coordinates: angle = 59.400000, radius = -65.100000.
 	Converted to double: -65.100000.
@@ -1211,11 +1211,11 @@ Container has 9800/10000 elements.
 	Converted to double: -64.900000.
 605) Polar coordinates: angle = 3.700000, radius = -64.700000.
 	Converted to double: -64.700000.
-606) Polar coordinates: angle = -5.200000, radius = -64.600000.
+606) Polar coordinates: angle = -59.200000, radius = -64.600000.
 	Converted to double: -64.600000.
-607) Polar coordinates: angle = -59.200000, radius = -64.600000.
+607) Polar coordinates: angle = 46.400000, radius = -64.600000.
 	Converted to double: -64.600000.
-608) Polar coordinates: angle = 46.400000, radius = -64.600000.
+608) Polar coordinates: angle = -5.200000, radius = -64.600000.
 	Converted to double: -64.600000.
 609) Polar coordinates: angle = -93.500000, radius = -64.600000.
 	Converted to double: -64.600000.
@@ -1235,9 +1235,9 @@ Container has 9800/10000 elements.
 	Converted to double: -64.200000.
 617) Polar coordinates: angle = 19.700000, radius = -64.100000.
 	Converted to double: -64.100000.
-618) Polar coordinates: angle = 58.500000, radius = -64.100000.
+618) Polar coordinates: angle = -15.200000, radius = -64.100000.
 	Converted to double: -64.100000.
-619) Polar coordinates: angle = -15.200000, radius = -64.100000.
+619) Polar coordinates: angle = 58.500000, radius = -64.100000.
 	Converted to double: -64.100000.
 620) Polar coordinates: angle = 74.000000, radius = -64.000000.
 	Converted to double: -64.000000.
@@ -1259,11 +1259,11 @@ Container has 9800/10000 elements.
 	Converted to double: -63.300000.
 629) Polar coordinates: angle = -44.900000, radius = -63.100000.
 	Converted to double: -63.100000.
-630) Polar coordinates: angle = 97.500000, radius = -63.000000.
+630) Polar coordinates: angle = -27.500000, radius = -63.000000.
 	Converted to double: -63.000000.
-631) Polar coordinates: angle = -62.700000, radius = -63.000000.
+631) Polar coordinates: angle = 97.500000, radius = -63.000000.
 	Converted to double: -63.000000.
-632) Polar coordinates: angle = -27.500000, radius = -63.000000.
+632) Polar coordinates: angle = -62.700000, radius = -63.000000.
 	Converted to double: -63.000000.
 633) Polar coordinates: angle = 79.600000, radius = -63.000000.
 	Converted to double: -63.000000.
@@ -1315,9 +1315,9 @@ Container has 9800/10000 elements.
 	Converted to double: -61.100000.
 657) Polar coordinates: angle = -56.400000, radius = -61.100000.
 	Converted to double: -61.100000.
-658) Polar coordinates: angle = 54.300000, radius = -61.000000.
+658) Polar coordinates: angle = -33.600000, radius = -61.000000.
 	Converted to double: -61.000000.
-659) Polar coordinates: angle = -33.600000, radius = -61.000000.
+659) Polar coordinates: angle = 54.300000, radius = -61.000000.
 	Converted to double: -61.000000.
 660) Polar coordinates: angle = -93.100000, radius = -60.900000.
 	Converted to double: -60.900000.
@@ -1337,11 +1337,11 @@ Container has 9800/10000 elements.
 	Converted to double: -60.200000.
 668) Polar coordinates: angle = 23.500000, radius = -60.000000.
 	Converted to double: -60.000000.
-669) Polar coordinates: angle = -65.200000, radius = -59.900000.
+669) Polar coordinates: angle = -2.900000, radius = -59.900000.
 	Converted to double: -59.900000.
-670) Polar coordinates: angle = 83.500000, radius = -59.900000.
+670) Polar coordinates: angle = -65.200000, radius = -59.900000.
 	Converted to double: -59.900000.
-671) Polar coordinates: angle = -2.900000, radius = -59.900000.
+671) Polar coordinates: angle = 83.500000, radius = -59.900000.
 	Converted to double: -59.900000.
 672) Polar coordinates: angle = 46.300000, radius = -59.900000.
 	Converted to double: -59.900000.
@@ -1353,9 +1353,9 @@ Container has 9800/10000 elements.
 	Converted to double: -59.800000.
 676) Polar coordinates: angle = -43.200000, radius = -59.800000.
 	Converted to double: -59.800000.
-677) Polar coordinates: angle = 29.700000, radius = -59.800000.
+677) Polar coordinates: angle = 10.000000, radius = -59.800000.
 	Converted to double: -59.800000.
-678) Polar coordinates: angle = 10.000000, radius = -59.800000.
+678) Polar coordinates: angle = 29.700000, radius = -59.800000.
 	Converted to double: -59.800000.
 679) Polar coordinates: angle = 72.300000, radius = -59.700000.
 	Converted to double: -59.700000.
@@ -1411,9 +1411,9 @@ Container has 9800/10000 elements.
 	Converted to double: -58.100000.
 705) Polar coordinates: angle = -64.600000, radius = -58.100000.
 	Converted to double: -58.100000.
-706) Polar coordinates: angle = 11.900000, radius = -58.000000.
+706) Polar coordinates: angle = 80.900000, radius = -58.000000.
 	Converted to double: -58.000000.
-707) Polar coordinates: angle = 80.900000, radius = -58.000000.
+707) Polar coordinates: angle = 11.900000, radius = -58.000000.
 	Converted to double: -58.000000.
 708) Polar coordinates: angle = 15.600000, radius = -58.000000.
 	Converted to double: -58.000000.
@@ -1501,9 +1501,9 @@ Container has 9800/10000 elements.
 	Converted to double: -55.200000.
 750) Polar coordinates: angle = 60.400000, radius = -55.200000.
 	Converted to double: -55.200000.
-751) Polar coordinates: angle = -15.800000, radius = -55.200000.
+751) Polar coordinates: angle = -77.400000, radius = -55.200000.
 	Converted to double: -55.200000.
-752) Polar coordinates: angle = -77.400000, radius = -55.200000.
+752) Polar coordinates: angle = -15.800000, radius = -55.200000.
 	Converted to double: -55.200000.
 753) Polar coordinates: angle = -23.100000, radius = -55.100000.
 	Converted to double: -55.100000.
@@ -1523,11 +1523,11 @@ Container has 9800/10000 elements.
 	Converted to double: -54.800000.
 761) Polar coordinates: angle = 41.000000, radius = -54.700000.
 	Converted to double: -54.700000.
-762) Polar coordinates: angle = -74.800000, radius = -54.700000.
+762) Polar coordinates: angle = -9.200000, radius = -54.700000.
 	Converted to double: -54.700000.
-763) Polar coordinates: angle = -29.400000, radius = -54.700000.
+763) Polar coordinates: angle = -74.800000, radius = -54.700000.
 	Converted to double: -54.700000.
-764) Polar coordinates: angle = -9.200000, radius = -54.700000.
+764) Polar coordinates: angle = -29.400000, radius = -54.700000.
 	Converted to double: -54.700000.
 765) Polar coordinates: angle = -55.200000, radius = -54.700000.
 	Converted to double: -54.700000.
@@ -1665,9 +1665,9 @@ Container has 9800/10000 elements.
 	Converted to double: -50.900000.
 832) Polar coordinates: angle = 73.800000, radius = -50.800000.
 	Converted to double: -50.800000.
-833) Polar coordinates: angle = 35.800000, radius = -50.800000.
+833) Polar coordinates: angle = 35.200000, radius = -50.800000.
 	Converted to double: -50.800000.
-834) Polar coordinates: angle = 35.200000, radius = -50.800000.
+834) Polar coordinates: angle = 35.800000, radius = -50.800000.
 	Converted to double: -50.800000.
 835) Polar coordinates: angle = -21.100000, radius = -50.700000.
 	Converted to double: -50.700000.
@@ -1773,9 +1773,9 @@ Container has 9800/10000 elements.
 	Converted to double: -47.700000.
 886) Fraction: -95 / 2.
 	Converted to double: -47.500000.
-887) Polar coordinates: angle = 95.400000, radius = -47.500000.
+887) Polar coordinates: angle = 15.600000, radius = -47.500000.
 	Converted to double: -47.500000.
-888) Polar coordinates: angle = 15.600000, radius = -47.500000.
+888) Polar coordinates: angle = 95.400000, radius = -47.500000.
 	Converted to double: -47.500000.
 889) Polar coordinates: angle = 49.200000, radius = -47.500000.
 	Converted to double: -47.500000.
@@ -1871,9 +1871,9 @@ Container has 9800/10000 elements.
 	Converted to double: -44.900000.
 935) Polar coordinates: angle = -44.300000, radius = -44.900000.
 	Converted to double: -44.900000.
-936) Polar coordinates: angle = -82.100000, radius = -44.800000.
+936) Polar coordinates: angle = 23.900000, radius = -44.800000.
 	Converted to double: -44.800000.
-937) Polar coordinates: angle = 23.900000, radius = -44.800000.
+937) Polar coordinates: angle = -82.100000, radius = -44.800000.
 	Converted to double: -44.800000.
 938) Polar coordinates: angle = -51.600000, radius = -44.700000.
 	Converted to double: -44.700000.
@@ -1899,15 +1899,15 @@ Container has 9800/10000 elements.
 	Converted to double: -44.000000.
 949) Polar coordinates: angle = -91.000000, radius = -44.000000.
 	Converted to double: -44.000000.
-950) Polar coordinates: angle = -50.500000, radius = -44.000000.
+950) Polar coordinates: angle = 94.800000, radius = -44.000000.
 	Converted to double: -44.000000.
-951) Polar coordinates: angle = 94.800000, radius = -44.000000.
+951) Polar coordinates: angle = -50.500000, radius = -44.000000.
 	Converted to double: -44.000000.
 952) Polar coordinates: angle = 99.100000, radius = -43.900000.
 	Converted to double: -43.900000.
-953) Polar coordinates: angle = 62.900000, radius = -43.900000.
+953) Polar coordinates: angle = 68.200000, radius = -43.900000.
 	Converted to double: -43.900000.
-954) Polar coordinates: angle = 68.200000, radius = -43.900000.
+954) Polar coordinates: angle = 62.900000, radius = -43.900000.
 	Converted to double: -43.900000.
 955) Polar coordinates: angle = -36.800000, radius = -43.800000.
 	Converted to double: -43.800000.
@@ -2011,9 +2011,9 @@ Container has 9800/10000 elements.
 	Converted to double: -40.900000.
 1005) Polar coordinates: angle = -81.200000, radius = -40.800000.
 	Converted to double: -40.800000.
-1006) Polar coordinates: angle = -6.700000, radius = -40.700000.
+1006) Polar coordinates: angle = -19.700000, radius = -40.700000.
 	Converted to double: -40.700000.
-1007) Polar coordinates: angle = -19.700000, radius = -40.700000.
+1007) Polar coordinates: angle = -6.700000, radius = -40.700000.
 	Converted to double: -40.700000.
 1008) Polar coordinates: angle = -68.000000, radius = -40.700000.
 	Converted to double: -40.700000.
@@ -2069,15 +2069,15 @@ Container has 9800/10000 elements.
 	Converted to double: -39.200000.
 1034) Polar coordinates: angle = 93.400000, radius = -39.200000.
 	Converted to double: -39.200000.
-1035) Polar coordinates: angle = -49.800000, radius = -39.100000.
+1035) Polar coordinates: angle = -12.500000, radius = -39.100000.
 	Converted to double: -39.100000.
-1036) Polar coordinates: angle = -12.500000, radius = -39.100000.
+1036) Polar coordinates: angle = -49.800000, radius = -39.100000.
 	Converted to double: -39.100000.
 1037) Polar coordinates: angle = -57.900000, radius = -39.100000.
 	Converted to double: -39.100000.
-1038) Polar coordinates: angle = 21.900000, radius = -39.000000.
+1038) Polar coordinates: angle = -83.000000, radius = -39.000000.
 	Converted to double: -39.000000.
-1039) Polar coordinates: angle = -83.000000, radius = -39.000000.
+1039) Polar coordinates: angle = 21.900000, radius = -39.000000.
 	Converted to double: -39.000000.
 1040) Polar coordinates: angle = -35.000000, radius = -39.000000.
 	Converted to double: -39.000000.
@@ -2293,9 +2293,9 @@ Container has 9800/10000 elements.
 	Converted to double: -32.200000.
 1146) Polar coordinates: angle = -12.800000, radius = -32.200000.
 	Converted to double: -32.200000.
-1147) Polar coordinates: angle = -59.100000, radius = -32.100000.
+1147) Polar coordinates: angle = 19.800000, radius = -32.100000.
 	Converted to double: -32.100000.
-1148) Polar coordinates: angle = 19.800000, radius = -32.100000.
+1148) Polar coordinates: angle = -59.100000, radius = -32.100000.
 	Converted to double: -32.100000.
 1149) Polar coordinates: angle = -28.100000, radius = -32.100000.
 	Converted to double: -32.100000.
@@ -2397,9 +2397,9 @@ Container has 9800/10000 elements.
 	Converted to double: -29.200000.
 1198) Polar coordinates: angle = -32.400000, radius = -29.200000.
 	Converted to double: -29.200000.
-1199) Polar coordinates: angle = 90.400000, radius = -29.100000.
+1199) Polar coordinates: angle = -53.300000, radius = -29.100000.
 	Converted to double: -29.100000.
-1200) Polar coordinates: angle = -53.300000, radius = -29.100000.
+1200) Polar coordinates: angle = 90.400000, radius = -29.100000.
 	Converted to double: -29.100000.
 1201) Polar coordinates: angle = -18.600000, radius = -29.100000.
 	Converted to double: -29.100000.
@@ -2443,13 +2443,13 @@ Container has 9800/10000 elements.
 	Converted to double: -27.700000.
 1221) Fraction: -83 / 3.
 	Converted to double: -27.666667.
-1222) Polar coordinates: angle = -52.000000, radius = -27.600000.
+1222) Polar coordinates: angle = -51.700000, radius = -27.600000.
 	Converted to double: -27.600000.
-1223) Polar coordinates: angle = -51.700000, radius = -27.600000.
+1223) Polar coordinates: angle = -63.900000, radius = -27.600000.
 	Converted to double: -27.600000.
-1224) Polar coordinates: angle = -63.900000, radius = -27.600000.
+1224) Polar coordinates: angle = -84.000000, radius = -27.600000.
 	Converted to double: -27.600000.
-1225) Polar coordinates: angle = -84.000000, radius = -27.600000.
+1225) Polar coordinates: angle = -52.000000, radius = -27.600000.
 	Converted to double: -27.600000.
 1226) Polar coordinates: angle = -57.400000, radius = -27.500000.
 	Converted to double: -27.500000.
@@ -3327,9 +3327,9 @@ Container has 9800/10000 elements.
 	Converted to double: -7.000000.
 1663) Polar coordinates: angle = 46.200000, radius = -6.900000.
 	Converted to double: -6.900000.
-1664) Polar coordinates: angle = -85.900000, radius = -6.900000.
+1664) Polar coordinates: angle = 49.900000, radius = -6.900000.
 	Converted to double: -6.900000.
-1665) Polar coordinates: angle = 49.900000, radius = -6.900000.
+1665) Polar coordinates: angle = -85.900000, radius = -6.900000.
 	Converted to double: -6.900000.
 1666) Fraction: -62 / 9.
 	Converted to double: -6.888889.
@@ -10639,11 +10639,11 @@ Container has 9800/10000 elements.
 	Converted to double: 24.600000.
 5319) Polar coordinates: angle = -59.300000, radius = 24.600000.
 	Converted to double: 24.600000.
-5320) Imaginary number: -24.700000i
+5320) Polar coordinates: angle = -89.200000, radius = 24.700000.
 	Converted to double: 24.700000.
-5321) Polar coordinates: angle = -89.200000, radius = 24.700000.
+5321) Polar coordinates: angle = -43.500000, radius = 24.700000.
 	Converted to double: 24.700000.
-5322) Polar coordinates: angle = -43.500000, radius = 24.700000.
+5322) Imaginary number: -24.700000i
 	Converted to double: 24.700000.
 5323) Polar coordinates: angle = 18.500000, radius = 24.800000.
 	Converted to double: 24.800000.
@@ -13123,9 +13123,9 @@ Container has 9800/10000 elements.
 	Converted to double: 57.600000.
 6561) Polar coordinates: angle = -34.600000, radius = 57.600000.
 	Converted to double: 57.600000.
-6562) Imaginary number: -0.800000 + 57.600000i.
+6562) Imaginary number: 51.200000 + 26.400000i.
 	Converted to double: 57.605555.
-6563) Imaginary number: 51.200000 + 26.400000i.
+6563) Imaginary number: -0.800000 + 57.600000i.
 	Converted to double: 57.605555.
 6564) Imaginary number: 50.200000 - 28.300000i.
 	Converted to double: 57.627511.

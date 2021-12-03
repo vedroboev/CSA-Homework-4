@@ -70,7 +70,7 @@ void readContainer(void *container, int *length, FILE *input) {
     void *pointer = container;
     int line_index = 1;
     // Reading until EOF.
-    while (!feof(input)) {
+    while (!feof(input) && *length < 10000) {
         // Trying to read the current line.
         char line[max_line_length];
         if (!fgets(line, max_line_length, input)) {
