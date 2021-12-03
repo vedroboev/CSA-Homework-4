@@ -1,11 +1,9 @@
 // Output functions for program abstractions.
 
 #include <stdio.h>
-#include <math.h>
 
 #include "sharedconstants.h"
 #include "container.h"
-#include "todouble.h"
 
 // Writes an imaginary number to a file.
 void writeImaginary(void *pointer, FILE *output) {
@@ -76,7 +74,7 @@ void writeNumber(void *pointer, FILE *output) {
     }
 }
 
-// Writes container and itxs data to an output file.
+// Writes container and its data to an output file.
 void writeContainer(void *container, int length, FILE *output) {
     void *pointer = container;
     // Printing container stats.,

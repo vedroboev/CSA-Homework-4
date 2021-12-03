@@ -93,7 +93,7 @@ mov rbp, rsp
 
 .imaginary:                     ; handing imaginary
     add rdi, 4                  ; moving rdi by int size to get to number data
-    call imaginaryToDouble   ; getting double conversion of specified number
+    call imaginaryToDouble      ; getting double conversion of specified number
     jmp .return                 ; jumping to the end
 
 .fraction:                      ; handling fraction
