@@ -5,16 +5,21 @@
 #include "container.h"
 #include "utilities.h"
 
+
+extern void generateHeapAsm(void* container, int index, int length);
+
+extern void heapSortAsm(void* container, int length);
+
+extern void swapAsm(void* first, void* second);
+
 //----------------------------------------------------------------------------------------------------------------------
 // MAIN METHOD.
 //----------------------------------------------------------------------------------------------------------------------
-
 
 int main(int argument_count, char *args[]) {
     // Creating an array which will store all read numbers.
     unsigned char container[container_size];
     int length = 0;
-
 
     // Handling incorrect argument count.
     if(argument_count != 5 && argument_count != 4){

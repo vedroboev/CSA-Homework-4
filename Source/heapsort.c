@@ -1,6 +1,8 @@
 #include "container.h"
-#include "todouble.h"
 #include "sharedconstants.h"
+
+extern void generateHeapAsm(void* container, int index, int length);
+extern void swapAsm(void* first, void* second);
 
 // Swaps the two numbers in the container located at specified pointers.
 void swap(void* first, void* second){
@@ -23,15 +25,14 @@ void generateHeap(void* container, int index, int length){
     int left = 2 * index + number_size;
     int right = left + number_size;
 
-    int byte_length = length * number_size;
 
     // Finding true largest element.
-    if(left < byte_length){
+    if(left < length){
         if(numberToDouble(container + index) < numberToDouble(container + left)){
             largest = left;
         }
     }
-    if(right < byte_length){
+    if(right < length){
         if(numberToDouble(container + right) > numberToDouble(container + largest)){
             largest = right;
         }
@@ -39,7 +40,7 @@ void generateHeap(void* container, int index, int length){
 
     // If largest element wasn't truly the largest, we swap it with element at index and try again.
     if(largest != index){
-        swap(container + largest, container + index);
+        swapAsm(container + largest, container + index);
         generateHeap(container, largest, length);
     }
 }
@@ -47,14 +48,14 @@ void generateHeap(void* container, int index, int length){
 void heapSort(void* container, int length){
     // Generating a full heap in our container.
     for (int i = length / 2 - 1; i >= 0; --i) {
-        generateHeap(container, i * number_size, length);
+        generateHeap(container, i * number_size, length * number_size);
     }
 
     // Extracting heap elements in correct order, generating sorted container.
     for(int i = length - 1; i >= 0; --i){
         // Moving root to the index.
-        swap(container, container + i * number_size);
+        swapAsm(container, container + i * number_size);
         // Heapifying the partial heap.
-        generateHeap(container, 0, i);
+        generateHeap(container, 0, i * number_size);
     }
 }
